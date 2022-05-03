@@ -3,5 +3,9 @@ body {
 }
 
 .header {
-    
+    padding: 10px;
+}
+
+nav .nav-item {
+    border: 10px;
 }
